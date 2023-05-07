@@ -1,4 +1,4 @@
-# Phase 2 Guided Project Guidelines
+# Phase 2 Guided Project Guidelines c
 
 In this guided project, we'll be building an Evernote-like application with React.
 
